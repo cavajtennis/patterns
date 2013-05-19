@@ -1,7 +1,7 @@
 package com.fang.patterns.factorypattern.nomal;
 
 /**
- * 
+ * 工厂方法模式
  *
  * @author fangbingbing 2013-5-18 下午08:21:34
  */
@@ -17,4 +17,5 @@ public class SendFactory {
             return null;  
         }  
     }  
+    
 } 
